@@ -1,0 +1,84 @@
+.email {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+    margin-top: -30px;
+    padding: 20px;
+    padding-left: 20px;
+
+}
+.email legend{
+    padding: 10px;
+    padding-top: 80px;
+
+}
+.question{
+    display: flex;
+    flex-direction: column;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    margin-top: -40px;
+    padding-left: 20px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+.question legend{
+    padding: 10px;
+    padding-top: 110px;
+}
+.question label{
+    padding-top: 20px;
+}
+
+.question input[type="radio"]{
+    width: 18px;
+    height: 18px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.buttons input[type="Submit"]{
+    background: blueviolet;
+    color: aliceblue;
+    height: 35px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 80px;
+    cursor: pointer;
+}
+.clear{
+    color: blueviolet;
+    cursor: pointer;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 16px;
+}
+.footer p a{
+    color: black;
+}
+.footer h3{
+    color: rgb(141, 133, 133);
+    font-weight: 500;
+}
+.footer h3 a{
+    font-weight: 700;
+    color: rgb(116, 112, 112);
+    text-decoration: none;
+}
+.question img{
+    height: 250px;
+    width: 350px;
+    padding-left: 10px;
+}
+.buttons input[type="Submit"]:hover{
+    background-color: rgb(159, 81, 232);
+}

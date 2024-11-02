@@ -1,0 +1,34 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 -9px 1px rgb(81, 0, 147);
+    margin-top: 9px;
+    border-radius: 10px;
+}
+.pi, .p{
+    padding-left: 30px;
+    border-top: 1px solid rgb(215, 209, 209);
+}
+.h1{
+    padding-left: 30px;
+}
+.pi{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+.p{
+    color: red;
+}
+.switch{
+    color: rgb(0, 140, 255);
+    cursor: pointer;
+}
+.pi img{
+    cursor: pointer;
+    width: 40px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 4px;
+}
