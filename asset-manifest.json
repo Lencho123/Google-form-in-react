@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Google-form-in-react/static/css/main.a9bfb735.css",
+    "main.js": "/Google-form-in-react/static/js/main.1565abbd.js",
+    "static/media/linc.jpg": "/Google-form-in-react/static/media/linc.c54dd3beeb60162b9f94.jpg",
+    "static/media/tree.png": "/Google-form-in-react/static/media/tree.b308ed254edae582f7ca.png",
+    "index.html": "/Google-form-in-react/index.html",
+    "main.a9bfb735.css.map": "/Google-form-in-react/static/css/main.a9bfb735.css.map",
+    "main.1565abbd.js.map": "/Google-form-in-react/static/js/main.1565abbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9bfb735.css",
+    "static/js/main.1565abbd.js"
+  ]
+}
